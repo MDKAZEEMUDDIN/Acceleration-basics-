@@ -1,0 +1,8 @@
+C:\Users\91808\Desktop\project\EmployeDetails\EmployeDetails\bin\Debug\EmployeDetails.exe.config
+C:\Users\91808\Desktop\project\EmployeDetails\EmployeDetails\bin\Debug\EmployeDetails.exe
+C:\Users\91808\Desktop\project\EmployeDetails\EmployeDetails\bin\Debug\EmployeDetails.pdb
+C:\Users\91808\Desktop\project\EmployeDetails\EmployeDetails\obj\Debug\EmployeDetails.csproj.AssemblyReference.cache
+C:\Users\91808\Desktop\project\EmployeDetails\EmployeDetails\obj\Debug\EmployeDetails.csproj.SuggestedBindingRedirects.cache
+C:\Users\91808\Desktop\project\EmployeDetails\EmployeDetails\obj\Debug\EmployeDetails.csproj.CoreCompileInputs.cache
+C:\Users\91808\Desktop\project\EmployeDetails\EmployeDetails\obj\Debug\EmployeDetails.exe
+C:\Users\91808\Desktop\project\EmployeDetails\EmployeDetails\obj\Debug\EmployeDetails.pdb
